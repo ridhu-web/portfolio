@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d3b0727b.css",
-    "main.js": "/static/js/main.543f295e.js",
+    "main.js": "/static/js/main.fefae4fc.js",
     "static/media/mock3.png": "/static/media/mock3.ebf58082026b3de2998a.png",
     "static/media/self.png": "/static/media/self.9ae65a4a03ffb975344a.png",
     "static/media/FluidSimulation.png": "/static/media/FluidSimulation.2c3e0bb4c7727295bff8.png",
@@ -11,10 +11,10 @@
     "static/media/TurnByTurnNavigation.jpg": "/static/media/TurnByTurnNavigation.0e460fa984282d80908f.jpg",
     "index.html": "/index.html",
     "main.d3b0727b.css.map": "/static/css/main.d3b0727b.css.map",
-    "main.543f295e.js.map": "/static/js/main.543f295e.js.map"
+    "main.fefae4fc.js.map": "/static/js/main.fefae4fc.js.map"
   },
   "entrypoints": [
     "static/css/main.d3b0727b.css",
-    "static/js/main.543f295e.js"
+    "static/js/main.fefae4fc.js"
   ]
 }
