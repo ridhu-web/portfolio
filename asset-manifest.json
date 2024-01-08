@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3b0727b.css",
-    "main.js": "/static/js/main.fefae4fc.js",
-    "static/media/mock3.png": "/static/media/mock3.ebf58082026b3de2998a.png",
-    "static/media/self.png": "/static/media/self.9ae65a4a03ffb975344a.png",
-    "static/media/FluidSimulation.png": "/static/media/FluidSimulation.2c3e0bb4c7727295bff8.png",
-    "static/media/mock1.png": "/static/media/mock1.c5a53f252ca39e3d0e78.png",
-    "static/media/mock4.png": "/static/media/mock4.8babe627a6e1a7701b33.png",
-    "static/media/BooleanAlgebra.png": "/static/media/BooleanAlgebra.3bc1ae93719adb133d98.png",
-    "static/media/TurnByTurnNavigation.jpg": "/static/media/TurnByTurnNavigation.0e460fa984282d80908f.jpg",
-    "index.html": "/index.html",
-    "main.d3b0727b.css.map": "/static/css/main.d3b0727b.css.map",
-    "main.fefae4fc.js.map": "/static/js/main.fefae4fc.js.map"
+    "main.css": "/portfolio/static/css/main.b7af690e.css",
+    "main.js": "/portfolio/static/js/main.7811019e.js",
+    "static/media/mock3.png": "/portfolio/static/media/mock3.ebf58082026b3de2998a.png",
+    "static/media/self.png": "/portfolio/static/media/self.9ae65a4a03ffb975344a.png",
+    "static/media/FluidSimulation.png": "/portfolio/static/media/FluidSimulation.2c3e0bb4c7727295bff8.png",
+    "static/media/mock1.png": "/portfolio/static/media/mock1.c5a53f252ca39e3d0e78.png",
+    "static/media/mock4.png": "/portfolio/static/media/mock4.8babe627a6e1a7701b33.png",
+    "static/media/BooleanAlgebra.png": "/portfolio/static/media/BooleanAlgebra.3bc1ae93719adb133d98.png",
+    "static/media/TurnByTurnNavigation.jpg": "/portfolio/static/media/TurnByTurnNavigation.0e460fa984282d80908f.jpg",
+    "static/media/hpe.png": "/portfolio/static/media/hpe.f88cc56ac3df6c350086.png",
+    "static/media/regions-bank.png": "/portfolio/static/media/regions-bank.044ad2eb9753564b3fa5.png",
+    "index.html": "/portfolio/index.html",
+    "main.b7af690e.css.map": "/portfolio/static/css/main.b7af690e.css.map",
+    "main.7811019e.js.map": "/portfolio/static/js/main.7811019e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3b0727b.css",
-    "static/js/main.fefae4fc.js"
+    "static/css/main.b7af690e.css",
+    "static/js/main.7811019e.js"
   ]
 }
