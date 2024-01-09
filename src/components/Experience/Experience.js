@@ -178,10 +178,10 @@ export default function Experience() {
       />
       <ExperienceCard
         logo={hpe}
-        role="Software Engineering Intern"
+        role="Software Engineer"
         company="Hewlett Packard Enterprise, Bengaluru, India"
         period="September 2023 - December 2023"
-        tools="C#, .NET, ASP.NET, Azure, SQL"
+        tools="Python, Java, Ansible, Jenkins, HPE GreenLake, HPE Element Platform, Containerization, Kubernetes, Docker"
         summary="Developed and automated cloud and DevOps solutions, significantly enhancing cloud configurations, server management, and real-time monitoring across complex architectures, while effectively debugging and deploying using technologies like Python, Java, Ansible, and Jenkins."
       />
       {/* Add other ExperienceCard components here */}
