@@ -1,7 +1,8 @@
 import React from "react";
+import TabPanel from "./TabPanelNew";
 
 function Skills() {
-  return <div>Skills content goes here...</div>;
+  return <TabPanel />;
 }
 
 export default Skills;

@@ -1,0 +1,6 @@
+/* In a global CSS file */
+:root {
+    --primary-color: #fff;
+    --secondary-color: #000;
+    /* other variables */
+}
