@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.909b886c.css",
-    "main.js": "/static/js/main.77e1d062.js",
-    "static/media/mock3.png": "/static/media/mock3.ebf58082026b3de2998a.png",
-    "static/media/self.png": "/static/media/self.9ae65a4a03ffb975344a.png",
-    "static/media/FluidSimulation.png": "/static/media/FluidSimulation.2c3e0bb4c7727295bff8.png",
-    "static/media/mock1.png": "/static/media/mock1.c5a53f252ca39e3d0e78.png",
-    "static/media/mock4.png": "/static/media/mock4.8babe627a6e1a7701b33.png",
-    "static/media/BooleanAlgebra.png": "/static/media/BooleanAlgebra.3bc1ae93719adb133d98.png",
-    "static/media/TurnByTurnNavigation.jpg": "/static/media/TurnByTurnNavigation.0e460fa984282d80908f.jpg",
-    "static/media/hpe.png": "/static/media/hpe.f88cc56ac3df6c350086.png",
-    "static/media/regions-bank.png": "/static/media/regions-bank.044ad2eb9753564b3fa5.png",
-    "index.html": "/index.html",
-    "main.909b886c.css.map": "/static/css/main.909b886c.css.map",
-    "main.77e1d062.js.map": "/static/js/main.77e1d062.js.map"
+    "main.css": "/home/static/css/main.909b886c.css",
+    "main.js": "/home/static/js/main.c31170fd.js",
+    "static/media/mock3.png": "/home/static/media/mock3.ebf58082026b3de2998a.png",
+    "static/media/self.png": "/home/static/media/self.9ae65a4a03ffb975344a.png",
+    "static/media/FluidSimulation.png": "/home/static/media/FluidSimulation.2c3e0bb4c7727295bff8.png",
+    "static/media/mock1.png": "/home/static/media/mock1.c5a53f252ca39e3d0e78.png",
+    "static/media/mock4.png": "/home/static/media/mock4.8babe627a6e1a7701b33.png",
+    "static/media/BooleanAlgebra.png": "/home/static/media/BooleanAlgebra.3bc1ae93719adb133d98.png",
+    "static/media/TurnByTurnNavigation.jpg": "/home/static/media/TurnByTurnNavigation.0e460fa984282d80908f.jpg",
+    "static/media/hpe.png": "/home/static/media/hpe.f88cc56ac3df6c350086.png",
+    "static/media/regions-bank.png": "/home/static/media/regions-bank.044ad2eb9753564b3fa5.png",
+    "index.html": "/home/index.html",
+    "main.909b886c.css.map": "/home/static/css/main.909b886c.css.map",
+    "main.c31170fd.js.map": "/home/static/js/main.c31170fd.js.map"
   },
   "entrypoints": [
     "static/css/main.909b886c.css",
-    "static/js/main.77e1d062.js"
+    "static/js/main.c31170fd.js"
   ]
 }
