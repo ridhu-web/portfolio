@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.be4c6ea0.css",
-    "main.js": "/static/js/main.05b6a6b2.js",
+    "main.css": "/static/css/main.b421951a.css",
+    "main.js": "/static/js/main.64dd69c0.js",
     "static/media/mock3.png": "/static/media/mock3.ebf58082026b3de2998a.png",
     "static/media/self.png": "/static/media/self.9ae65a4a03ffb975344a.png",
     "static/media/FluidSimulation.png": "/static/media/FluidSimulation.2c3e0bb4c7727295bff8.png",
@@ -9,14 +9,12 @@
     "static/media/mock4.png": "/static/media/mock4.8babe627a6e1a7701b33.png",
     "static/media/BooleanAlgebra.png": "/static/media/BooleanAlgebra.3bc1ae93719adb133d98.png",
     "static/media/TurnByTurnNavigation.jpg": "/static/media/TurnByTurnNavigation.0e460fa984282d80908f.jpg",
-    "static/media/hpe.png": "/static/media/hpe.f88cc56ac3df6c350086.png",
-    "static/media/regions-bank.png": "/static/media/regions-bank.044ad2eb9753564b3fa5.png",
     "index.html": "/index.html",
-    "main.be4c6ea0.css.map": "/static/css/main.be4c6ea0.css.map",
-    "main.05b6a6b2.js.map": "/static/js/main.05b6a6b2.js.map"
+    "main.b421951a.css.map": "/static/css/main.b421951a.css.map",
+    "main.64dd69c0.js.map": "/static/js/main.64dd69c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.be4c6ea0.css",
-    "static/js/main.05b6a6b2.js"
+    "static/css/main.b421951a.css",
+    "static/js/main.64dd69c0.js"
   ]
 }
