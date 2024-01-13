@@ -6,8 +6,8 @@ import About from "./about/About";
 import Portfolio from "./portfolio/Portfolio";
 import { Route, Routes } from "react-router-dom";
 import { Box, Grid } from "@mui/material";
-import Experience from "./Experience/Experience"; // import the Experience component
-import Skills from "./skills/Skills";
+import CustomizedTimeline from "./Experience/Experience_New";
+import MyComponent from "./skills/SkillsNew";
 
 export default function BaseLayout() {
   let [darkMode, setDarkMode] = useState(false);
@@ -45,8 +45,13 @@ export default function BaseLayout() {
           <Routes>
             <Route exact path={"/"} element={<Home />} />
             <Route exact path={"/about"} element={<About />} />
-            <Route exact path={"/experience"} element={<Experience />} />
-            <Route exact path={"/skills"} element={<Skills />} />
+            <Route
+              exact
+              path={"/experience"}
+              element={<CustomizedTimeline darkMode={darkMode} />}
+            />
+            <Route exact path={"/skills"} element={<MyComponent />} />
+
             <Route exact path={"/portfolio"} element={<Portfolio />} />
           </Routes>
         </Grid>
