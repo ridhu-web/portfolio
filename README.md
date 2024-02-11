@@ -1,38 +1,14 @@
-# React Portfolio, multiple pages with dark mode
+# Portfolio of Ridhuparan
+ 
+This project was created with CRA (Create React App)
 
-## features
+This is my portfolio website to introduce myself, here I put my skills, projects, and contact details.
 
-🌑 Dark Mode Toggler
-
-📖 Multiple Pages (React Router)
-
-📱 Fully Responsive
-
-🎨 Modern Design
-
-💡 Perfect Lighthouse Score
-
-![screenshot of perfect lighthouse score](https://user-images.githubusercontent.com/18350557/179609620-847374a6-23e6-4432-b7a8-181d7d9bf026.png)
-
-
----
-
-## getting started
-
-### prerequisites
-
-- have [Git](https://git-scm.com/) installed on your machine
-- have [Node.js](https://nodejs.org/en/download/) installed on your machine
-- basic familiarity with your machine's command line
-- basic understanding of JSON data outline (arrays of objects basically)
-
-## how to use
-
-- fork the repository and clone locally
-- cd into the project and run `npm install` to install dependencies
-- once installation is complete, run `npm run start` to get your local copy running in the browser.
-
-
-[Dirk Kotze](https://dirkrkotze.com/)
-
-[Iuliia Sutygina](https://juliasut.github.io/portfolio/)
+## Technologies used:
+- React
+- Typescript
+- Styled Components
+ 
+## To run this project:
+- yarn install
+- yarn run start
