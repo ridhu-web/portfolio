@@ -21,7 +21,7 @@ export function Contact(){
           <a href="tel:+13128043935">(+1) 3128043935</a>
         </div>  
       </div>
-      <Form></Form>
+      {/* <Form></Form> */}
     </Container>
   )
 }
