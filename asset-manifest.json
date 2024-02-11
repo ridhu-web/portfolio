@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.039bf95e.css",
-    "main.js": "/static/js/main.3d270f3d.js",
+    "main.js": "/static/js/main.8efb98e3.js",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Ridhuparan.png": "/static/media/Ridhuparan.4a1183b7ad0d938b4116.png",
     "static/media/docker.svg": "/static/media/docker.d67b7e2a4a5f41d8526c6377e21458df.svg",
@@ -31,10 +31,10 @@
     "static/media/js-icon.svg": "/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "static/media/scalaLogo.svg": "/static/media/scalaLogo.c59b948b6429cd2a901223ece1bf0390.svg",
     "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
-    "main.3d270f3d.js.map": "/static/js/main.3d270f3d.js.map"
+    "main.8efb98e3.js.map": "/static/js/main.8efb98e3.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.3d270f3d.js"
+    "static/js/main.8efb98e3.js"
   ]
 }
