@@ -15,7 +15,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
 const workExperiences = [
   {
-    period: 'September 2024 - Present',
+    period: 'September 2023 - Present',
     company: 'University of Illinois at Chicago',
     position: 'Graduate Assistant',
     tasks: [
